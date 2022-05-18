@@ -1,2 +1,2 @@
-# Udacity-Data Scientist Nano Degree
-This repository contains all the projects and codes of Data Scientist Nano Degree program
+# Udacity-Data Scientist Nano Degree-Project 1
+This repository contains all the projects and codes of project 1 (Writing a data scientist blog post)
