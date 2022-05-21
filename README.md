@@ -30,4 +30,4 @@ Must give credit to Airbnb for the data. You can find other data of Airbnb here.
 To view plots in notebooks, please click here: 
 - [listings](http://nbviewer.org/github/anqi-guo/udacity-dsnd-blog-post/blob/main/listings.ipynb)
 - [reviews](http://nbviewer.org/github/anqi-guo/udacity-dsnd-blog-post/blob/main/reviews.ipynb)
-- [calendars](http://nbviewer.org/github/anqi-guo/udacity-dsnd-blog-post/blob/main/calendars.ipynb)
+- [calendar](http://nbviewer.org/github/anqi-guo/udacity-dsnd-blog-post/blob/main/calendar.ipynb)
