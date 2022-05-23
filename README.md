@@ -24,7 +24,7 @@ There are two notebook available here to showcase work related to the above ques
 The main findings of the code can be found at the post available [here](https://medium.com/@kwok723/airbnb-in-shanghai-db66177e54f6).
 
 # Licensing, Authors, and Acknowledgements
-Must give credit to Airbnb for the data. You can find other data of Airbnb here.
+Must give credit to Airbnb for the data. You can find other data of Airbnb [here](http://insideairbnb.com/get-the-data/).
 
 # Note
 To view maps in notebooks, please click here: 
