@@ -18,7 +18,7 @@ For this project, I was interested in using Airbnb datasets to better understand
 3. Are there seasonality of prices?
 
 # File Descriptions
-There are two notebook available here to showcase work related to the above questions, and the data are in the data folder.
+There are two notebook available here to showcase work related to the above questions, and the data can be downloaded [here](http://insideairbnb.com/get-the-data/).
 
 # Results
 The main findings of the code can be found at the post available [here](https://medium.com/@kwok723/airbnb-in-shanghai-db66177e54f6).
